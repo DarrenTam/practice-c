@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pratice-c.iml" filepath="$PROJECT_DIR$/.idea/pratice-c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/practice-c.iml" filepath="$PROJECT_DIR$/.idea/practice-c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pratice_c.iml" filepath="$PROJECT_DIR$/.idea/pratice_c.iml" />
     </modules>
   </component>
 </project>
